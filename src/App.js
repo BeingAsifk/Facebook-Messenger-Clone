@@ -45,9 +45,9 @@ function App() {
     <div className="App">
       <img
         alt="fm logo"
-        src="https://facebookbrand.com/wp-content/uploads/2018/09/Header-e1538151782912.png?w=100&h=100"
+        src="https://icons8.com/icon/fOcYhPvJWEv3/facebook-messenger?w=100&h=100"
       />
-      <h1>🚀 Messenger Clone by Asif 🚀 </h1>
+      <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Messenger Clone by Asif 🚀 </h1>
       <h2>Welcome {username}😀</h2>
 
       <form className="app__form">

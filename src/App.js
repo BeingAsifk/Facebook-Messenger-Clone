@@ -45,10 +45,10 @@ function App() {
     <div className="App">
       <img
         alt="fm logo"
-        src="https://icons8.com/icon/fOcYhPvJWEv3/facebook-messenger?w=100&h=100"
+        src="https://icons8.com/icon/fOcYhPvJWEv3/facebook-messenger"
       />
-      <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Messenger Clone by Asif "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" </h1>
-      <h2>Welcome {username}<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" /></h2>
+      <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Messenger Clone by Asif <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> </h1>
+      <h2>Welcome {username}<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="25" height="25" /></h2>
 
       <form className="app__form">
         <FormControl className="app__formControl">
